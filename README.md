@@ -1,1 +1,1 @@
-# lab1ruby
+# Lab1 Sliusarchuk
